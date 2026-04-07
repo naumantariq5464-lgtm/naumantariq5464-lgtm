@@ -66,15 +66,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/naumantariq5464-lgtm/naumantariq5464-lgtm/output/snake.svg" alt="snake animation"/>
-
-</p>
-
----
 
 # 👁️ Profile Views
 
