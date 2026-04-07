@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;FastAPI+%7C+Next.js+Engineer;Building+Smart+Apps+with+AI;PostgreSQL+Backend+Development;Agentic+AI+Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;FastAPI+%7C+Next.js+Engineer;Building+Smart+Apps+with+AI;PostgreSQL+Backend+Development;Agentic+AI+Explorer" />
 </p>
 
 ---
@@ -65,7 +65,6 @@
 </p>
 
 ---
-
 
 # 👁️ Profile Views
 
