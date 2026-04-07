@@ -1,26 +1,85 @@
 <h1 align="center">Hi 👋, I'm Nauman Tariq</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | AI-Assisted Builder</h3>
 
-- 🔭 I’m currently working on **Full-Stack Student Attendance Management System**
+<h3 align="center">
+💻 Software Engineer | 🚀 Full-Stack Developer | 🤖 AI-Assisted Builder
+</h3>
 
-- 🌱 I’m currently learning **Courses**
-
-- 👯 I’m looking to collaborate on **Open Source Python , Node JS Backend & Full-Stack Projects**
-
-- 🤝 I’m looking for help with **Building scalable backend systems, system design and production-ready APIs**
-
-- 👨‍💻 All of my projects are available at [naumantariq.netlify.app](naumantariq.netlify.app)
-
-- 💬 Ask me about **Python • FastAPI • REST APIs • Backend Development • PostgreSQL • Next.js • Agentic AI • AI-Assisted Development**
-
-- 📫 How to reach me **naumantariq5464@gmail.com**
-
-- ⚡ Fun fact **I love building Full stack systems and using AI to write cleaner and faster code 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nauman-tariq-779b16336/?lipi=urn%3ali%3apage%3ad_flagship3_search_srp_people%3b4mrqlek7seomjtf48xswpa%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nauman-tariq-779b16336/?lipi=urn%3ali%3apage%3ad_flagship3_search_srp_people%3b4mrqlek7seomjtf48xswpa%3d%3d" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;FastAPI+%7C+Next.js+Engineer;Building+Smart+Apps+with+AI;PostgreSQL+Backend+Development;Agentic+AI+Explorer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+# 🚀 About Me
+
+- 🔭 Currently building **Full-Stack Student Attendance Management System**
+
+- 🌱 Learning **Advanced Backend Development, System Design & AI Engineering**
+
+- 👯 Open to collaborate on **Open Source Python, Node.js & Full-Stack Projects**
+
+- 🤝 Looking for help with **Scalable Backend Architecture & Production APIs**
+
+- 🌐 Portfolio  
+  **https://naumantariq.netlify.app**
+
+- 💬 Ask me about  
+  **Python • FastAPI • REST APIs • Backend Development • PostgreSQL • Next.js • Agentic AI**
+
+- 📫 Contact  
+  **naumantariq5464@gmail.com**
+
+- ⚡ Fun fact  
+  **I enjoy building full-stack systems and using AI to write cleaner code 🚀**
+
+---
+
+# 🧰 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,nodejs,express,nextjs,react,vue,mongodb,js,html,css,bootstrap,figma,c,cpp&perline=8" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=naumantariq5464-lgtm&theme=tokyonight&border_radius=10" />
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naumantariq5464-lgtm&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/naumantariq5464-lgtm/naumantariq5464-lgtm/output/snake.svg" alt="snake animation"/>
+
+</p>
+
+---
+
+# 👁️ Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=naumantariq5464-lgtm&label=Profile%20Views&color=00F7FF&style=flat" />
+
+</p>
