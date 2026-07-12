@@ -32,6 +32,8 @@
 - ⚡ Fun fact  
   **I enjoy building full-stack systems and using AI to write cleaner code 🚀**
 
+- 💖 Love Language
+  **My Love Language is Python💖 **
 ---
 
 # 🧰 Tech Stack
